@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5296e7c5.css",
-    "main.js": "/static/js/main.d5294ab7.js",
+    "main.css": "/static/css/main.76ef3a8f.css",
+    "main.js": "/static/js/main.d8eed4d5.js",
     "static/media/top-main.svg": "/static/media/top-main.7aa33f93ba5e8a134984.svg",
     "static/media/boxicons.svg": "/static/media/boxicons.61829f134e586c0c9e89.svg",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -12,7 +12,6 @@
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
-    "static/media/error.webp": "/static/media/error.098d5b4e424ac525b983.webp",
     "static/media/about_banner.png": "/static/media/about_banner.61ae790492bcdbda7428.png",
     "static/media/flags.png": "/static/media/flags.3f9d4c2eaac6057ce601.png",
     "static/media/money3.webp": "/static/media/money3.e09be375e422192c0a24.webp",
@@ -30,11 +29,11 @@
     "static/media/login-light-bg.svg": "/static/media/login-light-bg.b913f8a2add096d8c695.svg",
     "index.html": "/index.html",
     "static/media/search.svg": "/static/media/search.270e03caf8d0167303f2.svg",
-    "main.5296e7c5.css.map": "/static/css/main.5296e7c5.css.map",
-    "main.d5294ab7.js.map": "/static/js/main.d5294ab7.js.map"
+    "main.76ef3a8f.css.map": "/static/css/main.76ef3a8f.css.map",
+    "main.d8eed4d5.js.map": "/static/js/main.d8eed4d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.5296e7c5.css",
-    "static/js/main.d5294ab7.js"
+    "static/css/main.76ef3a8f.css",
+    "static/js/main.d8eed4d5.js"
   ]
 }
