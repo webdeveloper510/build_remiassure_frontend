@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6cac978c.css",
-    "main.js": "/static/js/main.3b439114.js",
+    "main.js": "/static/js/main.dd39f64c.js",
     "static/media/top-main.svg": "/static/media/top-main.7aa33f93ba5e8a134984.svg",
     "static/media/boxicons.svg": "/static/media/boxicons.61829f134e586c0c9e89.svg",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -18,6 +18,7 @@
     "static/media/money3.webp": "/static/media/money3.e09be375e422192c0a24.webp",
     "static/media/mastercard.png": "/static/media/mastercard.3c61f5d09a9019c59476.png",
     "static/media/nocard.jpg": "/static/media/nocard.150f7b195a2e104758ac.jpg",
+    "static/media/card_bg.png": "/static/media/card_bg.6223b18401b02f749a67.png",
     "static/media/images.png": "/static/media/images.6820eef2cdf81b5b0d2b.png",
     "static/media/3.png": "/static/media/3.1e91861691464ee9c316.png",
     "static/media/hidden.avif": "/static/media/hidden.b5d65c8304968583950c.avif",
@@ -32,10 +33,10 @@
     "index.html": "/index.html",
     "static/media/search.svg": "/static/media/search.270e03caf8d0167303f2.svg",
     "main.6cac978c.css.map": "/static/css/main.6cac978c.css.map",
-    "main.3b439114.js.map": "/static/js/main.3b439114.js.map"
+    "main.dd39f64c.js.map": "/static/js/main.dd39f64c.js.map"
   },
   "entrypoints": [
     "static/css/main.6cac978c.css",
-    "static/js/main.3b439114.js"
+    "static/js/main.dd39f64c.js"
   ]
 }
