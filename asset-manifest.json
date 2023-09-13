@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0e7b4ae3.css",
-    "main.js": "/static/js/main.577111c4.js",
+    "main.js": "/static/js/main.095a71c3.js",
     "static/media/top-main.svg": "/static/media/top-main.7aa33f93ba5e8a134984.svg",
     "static/media/boxicons.svg": "/static/media/boxicons.61829f134e586c0c9e89.svg",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -30,14 +30,14 @@
     "static/media/Group 01.svg": "/static/media/Group 01.2060d749583d0ea6c7e37944c519766d.svg",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/nodata.avif": "/static/media/nodata.e713e74e7ebeed5f4797.avif",
-    "static/media/login-light-bg.svg": "/static/media/login-light-bg.b913f8a2add096d8c695.svg",
     "index.html": "/index.html",
+    "static/media/login-light-bg.svg": "/static/media/login-light-bg.b913f8a2add096d8c695.svg",
     "static/media/search.svg": "/static/media/search.270e03caf8d0167303f2.svg",
     "main.0e7b4ae3.css.map": "/static/css/main.0e7b4ae3.css.map",
-    "main.577111c4.js.map": "/static/js/main.577111c4.js.map"
+    "main.095a71c3.js.map": "/static/js/main.095a71c3.js.map"
   },
   "entrypoints": [
     "static/css/main.0e7b4ae3.css",
-    "static/js/main.577111c4.js"
+    "static/js/main.095a71c3.js"
   ]
 }
