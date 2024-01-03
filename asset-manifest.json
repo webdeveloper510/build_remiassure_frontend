@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.44e99372.css",
-    "main.js": "/static/js/main.e2db8cac.js",
+    "main.css": "/static/css/main.cc22d92d.css",
+    "main.js": "/static/js/main.ea5a7318.js",
     "static/media/top-banner.png": "/static/media/top-banner.e504ab757cd4bf24cc3f.png",
     "static/media/top-main.svg": "/static/media/top-main.7aa33f93ba5e8a134984.svg",
     "static/media/howbg.png": "/static/media/howbg.ea37564a405cf39b3839.png",
@@ -9,6 +9,7 @@
     "static/media/zigzag.png": "/static/media/zigzag.32b5bd18b9e965951ed7.png",
     "static/media/login-bg.png": "/static/media/login-bg.080b77bdf3eb5d143bcf.png",
     "static/media/contatcbg.png": "/static/media/contatcbg.d44bc30a89b741660900.png",
+    "static/media/mask.svg": "/static/media/mask.f8a3b94d1e6013560e48.svg",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
     "static/media/page-bg.png": "/static/media/page-bg.7502a658b58fd01cd640.png",
     "static/media/bg03.jpg": "/static/media/bg03.935708321eb6a28b84ab.jpg",
@@ -55,11 +56,11 @@
     "static/media/login-light-bg.svg": "/static/media/login-light-bg.b913f8a2add096d8c695.svg",
     "static/media/search.svg": "/static/media/search.270e03caf8d0167303f2.svg",
     "static/media/mobile-pay.svg": "/static/media/mobile-pay.155e8bf2a987573a2c12.svg",
-    "main.44e99372.css.map": "/static/css/main.44e99372.css.map",
-    "main.e2db8cac.js.map": "/static/js/main.e2db8cac.js.map"
+    "main.cc22d92d.css.map": "/static/css/main.cc22d92d.css.map",
+    "main.ea5a7318.js.map": "/static/js/main.ea5a7318.js.map"
   },
   "entrypoints": [
-    "static/css/main.44e99372.css",
-    "static/js/main.e2db8cac.js"
+    "static/css/main.cc22d92d.css",
+    "static/js/main.ea5a7318.js"
   ]
 }
