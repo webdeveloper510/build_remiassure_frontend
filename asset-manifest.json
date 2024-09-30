@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9ed28294.css",
-    "main.js": "/static/js/main.8d307cad.js",
+    "main.js": "/static/js/main.52bf8c6b.js",
     "static/media/top-main.svg": "/static/media/top-main.102ec1fede59c9c786b5.svg",
     "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -20,7 +20,6 @@
     "static/media/bg-transparent.png": "/static/media/bg-transparent.e955291c190f9839d83b.png",
     "static/media/zigzag.webp": "/static/media/zigzag.3250fc2b22117ae6cc65.webp",
     "static/media/about_banner.webp": "/static/media/about_banner.9b2b38a8fc8fb1738734.webp",
-    "static/media/newlogo.webp": "/static/media/newlogo.a27d436ab30817f207f5.webp",
     "static/media/tt_firs_neue_trial_italic-webfont.woff": "/static/media/tt_firs_neue_trial_italic-webfont.8c823606950a4b69341a.woff",
     "static/media/text-bg.png": "/static/media/text-bg.ba225e055a5eb4452aed.png",
     "static/media/tt_firs_neue_trial_demibold-webfont.woff": "/static/media/tt_firs_neue_trial_demibold-webfont.d9a5b971630f8355d9d7.woff",
@@ -54,6 +53,7 @@
     "static/media/bg-sec.webp": "/static/media/bg-sec.5dfaf95a62efcd9fa2d5.webp",
     "static/media/reviewbanner.webp": "/static/media/reviewbanner.77d7cd6f6ed369c0cd29.webp",
     "index.html": "/index.html",
+    "static/media/Logo_White.webp": "/static/media/Logo_White.c8c6fe38071d7a2e2c76.webp",
     "static/media/login-light-bg.svg": "/static/media/login-light-bg.a805008f4d9a4345e35a.svg",
     "static/media/mobile-pay.webp": "/static/media/mobile-pay.2d0327e00964067a7742.webp",
     "static/media/search.svg": "/static/media/search.c6fcea69ac857842f294.svg",
@@ -61,10 +61,10 @@
     "static/media/tick.svg": "/static/media/tick.56a65bc3e5457a475d12.svg",
     "static/media/Union2.webp": "/static/media/Union2.7fcca9350b24cadd81e1.webp",
     "main.9ed28294.css.map": "/static/css/main.9ed28294.css.map",
-    "main.8d307cad.js.map": "/static/js/main.8d307cad.js.map"
+    "main.52bf8c6b.js.map": "/static/js/main.52bf8c6b.js.map"
   },
   "entrypoints": [
     "static/css/main.9ed28294.css",
-    "static/js/main.8d307cad.js"
+    "static/js/main.52bf8c6b.js"
   ]
 }
